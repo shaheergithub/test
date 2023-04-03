@@ -1,0 +1,13 @@
+.htaccess
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+error_log
+wp-config-sample.php
+wp-content/debug.log
+vendor/
+node_modules/
+*.zip
